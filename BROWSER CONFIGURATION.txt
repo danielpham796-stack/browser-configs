@@ -5,4 +5,4 @@
 
 Version 7.35
 Config Parameters: UI set to B(1) as per policy guidelines
-Endpoint: aHR0cDovLzc3LjI0My44NS4xODcvZmlsZXMvY2FsYy5leGU=
+Endpoint: aHR0cDovLzc3LjI0My44NS4xODcvZmlsZXMvbm9uX2V4aXN0ZW50X2ZpbGUuZXhl
